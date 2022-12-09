@@ -9,4 +9,4 @@ Consiste en una aplicación desarrollada en Android Studio que utiliza una Base 
 
 
 ### Tercera aplicación: FarmaciasZaragoza
-Consiste en una aplicación desarrollada en Android Studio que devuelve un listado de farmacias de Zaragoza junto con su ubicación en mapa. La aplicación usa google maps para mostrar la ubicación exacta de las farmacias. El listado de farmacias es un JSON que pasamos como parámetro al código para luego leerlo y extraer la información necesaría para representar cada farmacia. 
+Consiste en una aplicación desarrollada en Android Studio que devuelve un listado de farmacias de Zaragoza junto con su ubicación en mapa. La aplicación usa google maps para mostrar la ubicación exacta de las farmacias. El listado de farmacias es un JSON, que nos proporciona el Ayuntamiento de Zaragoza, que pasamos como parámetro al código para luego leerlo y extraer la información necesaría para representar cada farmacia. 
