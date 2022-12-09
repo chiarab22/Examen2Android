@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyClasses</string>
+    <string name="anadir_clase">Add Class</string>
+    <string name="ver_horario">See Classes</string>
+    <string name="horario">What is planned today?</string>
+    <string name="asignatura">Subject</string>
+    <string name="hora">Hour</string>
+    <string name="anadir">Add</string>
+    <string name="cancelar">Cancel</string>
+    <string name="mensaje_anadir">Subject added correctly</string>
+</resources>
